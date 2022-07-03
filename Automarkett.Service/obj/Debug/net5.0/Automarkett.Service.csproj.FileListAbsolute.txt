@@ -1,0 +1,17 @@
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarkett.Service.deps.json
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarkett.Service.dll
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\ref\Automarkett.Service.dll
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarkett.Service.pdb
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarket.DAL.dll
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarket.Domain.dll
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\bin\Debug\net5.0\Automarket.Domain.pdb
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.csproj.AssemblyReference.cache
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.AssemblyInfoInputs.cache
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.AssemblyInfo.cs
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.csproj.CopyComplete
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.dll
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\ref\Automarkett.Service.dll
+C:\Users\nikit\Desktop\c#\Automarket\Automarkett.Service\obj\Debug\net5.0\Automarkett.Service.pdb
